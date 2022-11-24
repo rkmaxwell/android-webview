@@ -16,7 +16,7 @@ Webview with file picker support, loading and cache
 
 <br>
 
-<p>Supports loading</p>
-<p>Supports error fallback</p>
-<p>Supports backpress</p>
-<p>Supports file picker</p>
+<p>&#10003;Supports loading</p>
+<p>&#10003;Supports error fallback</p>
+<p>&#10003;Supports backpress</p>
+<p>&#10003;Supports file picker</p>
