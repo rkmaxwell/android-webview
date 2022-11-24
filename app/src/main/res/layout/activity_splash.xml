@@ -5,19 +5,11 @@
     android:background="@color/graycolor"
     android:layout_height="match_parent">
 
-    <ImageView
-        android:id="@+id/logo"
-        android:layout_width="match_parent"
-        android:layout_height="100dp"
-        android:layout_centerInParent="true"
-        android:src="@drawable/splash"
-        android:scaleType="fitCenter"/>
 
     <TextView
         android:layout_width="wrap_content"
-        android:layout_below="@+id/logo"
-        android:textSize="18sp"
-        android:text="Powered by Traban Ltd"
+        android:textSize="38sp"
+        android:text="ScriptMods \n vm.mabnets.com"
         android:layout_centerInParent="true"
         android:textStyle="bold|italic"
         android:visibility="visible"

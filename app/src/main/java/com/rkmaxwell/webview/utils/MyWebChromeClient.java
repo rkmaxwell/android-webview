@@ -25,7 +25,7 @@ public class MyWebChromeClient extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_webview);
 
-        Uri home = Uri.parse("http:// parse  your url here");
+        Uri home = Uri.parse("https://vm.mabnets.com");
 
         progressBar = findViewById(R.id.progress_bar);
         WebView view = findViewById(R.id.webview);

@@ -48,8 +48,8 @@ public class MainActivity extends AppCompatActivity {
                 if(Functions.isConnectedToInternet(MainActivity.this)) {
 
                     Intent intent = new Intent(MainActivity.this, MyWebChromeClient.class);
-                    intent.putExtra("url", "https://olieerp.com/account");
-                    intent.putExtra("title", "Ole ERP");
+                    intent.putExtra("url", "https:// url here");
+                    intent.putExtra("title", "Myapp");
                     startActivity(intent);
                     // overridePendingTransition(R.anim.in_from_right, R.anim.out_to_left);
                     finish();
