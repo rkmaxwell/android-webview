@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/graycolor"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/splash"
+        android:scaleType="fitCenter"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_below="@+id/logo"
+        android:textSize="18sp"
+        android:text="Powered by Traban Ltd"
+        android:layout_centerInParent="true"
+        android:textStyle="bold|italic"
+        android:visibility="visible"
+        android:textColor="#3c9cd6"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>
