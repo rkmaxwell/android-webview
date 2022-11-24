@@ -1,7 +1,7 @@
 # android-webview
 Webview with file picker support, loading and cache
 
-<strong>Arts</strong
+<strong>Arts</strong>
 <table>
 <thead><tr><th>Name</th><th>screenshot</th></tr></thead>
 
@@ -13,5 +13,9 @@ Webview with file picker support, loading and cache
 </tbody>
 
 </table>
+
+<br>
+
+<p>Contact me <b>scriptmodes@gmail.com</b></p>
 
 
