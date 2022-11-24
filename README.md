@@ -16,6 +16,7 @@ Webview with file picker support, loading and cache
 
 <br>
 
-<p>Contact me <b>scriptmodes@gmail.com</b></p>
-
-
+<p>Supports loading</p>
+<p>Supports error fallback</p>
+<p>Supports backpress</p>
+<p>Supports file picker</p>
